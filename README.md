@@ -1,8 +1,8 @@
 # Data Scientist
 
 ## Education
-**University of California, Berkeley – Masters, Data Science
-**Syracuse University, Bachelor of Science, Finance
+** University of California, Berkeley – Masters, Data Science
+** Syracuse University, Bachelor of Science, Finance
 
 
 ## Projects
