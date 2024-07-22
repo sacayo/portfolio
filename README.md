@@ -1,8 +1,11 @@
 # Data Scientist
 
 #### Technical Skills: 
-- Programming: Python, R - Database: SQL (PostgreSQL), NoSQL (Neo4j)  - Tools: Git, GitHub, Docker, Linux CLI, AWS
-•  Analysis: A/B testing, Causal Inference, Statistical Analysis, Experimental Design  •  Machine Learning Libraries: Pandas, NumPy, TensorFlow, Keras, scikit-learn 
+- Programming: Python, R
+- Database: SQL (PostgreSQL), NoSQL (Neo4j)
+- Tools: Git, GitHub, Docker, Linux CLI, AWS
+- Analysis: A/B testing, Causal Inference, Statistical Analysis, Experimental Design
+- Machine Learning Libraries: Pandas, NumPy, TensorFlow, Keras, scikit-learn 
 
 
 ## Education
